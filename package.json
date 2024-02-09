@@ -1,0 +1,27 @@
+{
+  "name": "react-supermarket",
+  "version": "1.0.0",
+  "description": "An online supermarket built with react.js and Stripe Checkout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obstsalat98/online-Supermarket.git"
+  },
+  "keywords": [
+    "supermarket",
+    "stripe",
+    "react"
+  ],
+  "author": "emre oezsoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obstsalat98/online-Supermarket/issues"
+  },
+  "homepage": "https://github.com/Obstsalat98/online-Supermarket#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
